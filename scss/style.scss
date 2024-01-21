@@ -109,6 +109,9 @@ hr {
                 color: #7f56d9;
             }
         }
+        & .invalid-input{
+            border-color: #690000;
+        }
     }
 
     &__text {

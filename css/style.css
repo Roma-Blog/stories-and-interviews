@@ -207,6 +207,9 @@ hr {
   background-color: #fff;
   color: #7f56d9;
 }
+.form-subscribe__input .invalid-input {
+  border-color: #690000;
+}
 .form-subscribe__text {
   grid-column: 1/2;
   text-align: left;
